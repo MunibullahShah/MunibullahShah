@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Working as a Software Engineer at Alachisoft<br>📱 Building beautiful (and functional) Flutter Applications<br>📈 Sharpening my C# and Node.js<br>💬 Ask me about cars and travel
+💻 Working as a Software Engineer at OneKode<br>📱 Building beautiful (and functional) Flutter Applications<br>📈 Sharpening my C# and Node.js<br>💬 Ask me about cars and travel
 
 
 ## 🌐 Socials:
