@@ -1,9 +1,14 @@
-# 💫 About Me:
-💻 Working as a Software Engineer at OneKode<br>📱 Building beautiful (and functional) Flutter Applications<br>📈 Sharpening my C# and Node.js<br>💬 Ask me about cars and travel
+# Hi, I'm Munibullah Shah 👋
+**Flutter, Full-Stack & Data Engineer** — 5+ years shipping production apps end-to-end.
 
+- 📱 10+ apps live on the App Store & Google Play — including a government emergency-response app with **100K+ downloads**
+- 🤖 Built **Healix AI** — AI health advisor (Flutter + Python Cloud Functions + OpenAI GPT), 5.0★ on the App Store — https://apps.apple.com/us/app/healix-ai/id6743965106
+- 🌍 **SuperHero eSIM** — travel eSIM app for 150+ countries with Stripe payments, 5.0★ — https://apps.apple.com/pk/app/superhero-esim-travel-data/id6504882410
+- 👶 Currently building **Baby Resume** end-to-end (Flutter, Node.js, Firebase) — https://www.babyresume.com
+- 🛠 Also do Python data engineering: ETL pipelines, pandas, PostgreSQL star-schema warehouses
+- ⭐ Perfect **5.0 rating** across all Upwork contracts
+- 🗣 English · Urdu · Pashto
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/munibullah_shah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/munibullah-shah) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11068707) 
+**Stack:** Flutter · Dart · Node.js · Python · Firebase · PostgreSQL · Stripe · RevenueCat · OpenAI GPT · BLOC/Cubit · Clean Architecture
 
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+📫 munibs47@gmail.com · [Portfolio](https://munibullahshah.github.io) · [LinkedIn](https://linkedin.com/in/munibullah-shah) · [Upwork](https://www.upwork.com/freelancers/~016c2530416635e76e)
