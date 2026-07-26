@@ -6,6 +6,7 @@
 - 🌍 **SuperHero eSIM** — travel eSIM app for 150+ countries with Stripe payments, 5.0★ — https://apps.apple.com/pk/app/superhero-esim-travel-data/id6504882410
 - 👶 Currently building **Baby Resume** end-to-end (Flutter, Node.js, Firebase) — https://www.babyresume.com
 - 🛠 Also do Python data engineering: ETL pipelines, pandas, PostgreSQL star-schema warehouses
+- ☁️ Google Cloud certified: 4 skill badges — Cloud Fundamentals: Core Infrastructure, App Dev Environment Setup, Cloud Load Balancing, Data Transformation — [view credentials](https://www.skills.google/public_profiles/7d1557e9-5936-4f93-bd5e-6ab974d2d997)
 - ⭐ Perfect **5.0 rating** across all Upwork contracts
 - 🗣 English · Urdu · Pashto
 
