@@ -1,5 +1,5 @@
 # Hi, I'm Munibullah Shah 👋
-**Flutter, Full-Stack & Data Engineer** — 5+ years shipping production apps end-to-end.
+**Full-Stack & Data Engineer** — 5+ years shipping production apps end-to-end.
 
 - 📱 10+ apps live on the App Store & Google Play — including a government emergency-response app with **100K+ downloads**
 - 🤖 Built **Healix AI** — AI health advisor (Flutter + Python Cloud Functions + OpenAI GPT), 5.0★ on the App Store — https://apps.apple.com/us/app/healix-ai/id6743965106
