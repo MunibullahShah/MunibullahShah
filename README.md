@@ -1,79 +1,111 @@
-# Hi, I'm Munibullah Shah 👋
+<h1 align="center">Hi, I'm Munibullah Shah 👋</h1>
+<h3 align="center">Senior Flutter Engineer | Mobile, backend and cloud, end to end</h3>
 
-## AI Automation Engineer | Backend Systems | Intelligent Business Workflows
+<p align="center">
+  <a href="https://munibullahshah.github.io"><img src="https://img.shields.io/badge/Portfolio-munibullahshah.github.io-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/munibullah-shah"><img src="https://img.shields.io/badge/LinkedIn-munibullah--shah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:munibs47@gmail.com"><img src="https://img.shields.io/badge/Email-munibs47%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-I build AI-powered business automation systems that help companies automate operations, integrate AI into existing software, and eliminate repetitive manual work.
+---
 
-With 5+ years of software engineering experience, I've delivered production systems across AI automation, backend development, cloud infrastructure, data engineering, and mobile applications. My current focus is designing AI agents, workflow automation, backend integrations, conversational AI, and intelligent business systems that solve real business problems.
+## 🧑‍💻 About Me
 
-## 🚀 What I'm Building
+- 5+ years building mobile products, from architecture to App Store and Google Play release
+- 10+ apps shipped, including a government emergency response app with **100K+ downloads**
+- I also build what sits behind the app: APIs, payments, data pipelines and the servers they run on
+- Recently: AI features and automation running in production for a client in Belgium and for private medical practices
+- Based in Islamabad (UTC+5), working until 11pm PKT, which covers European and Gulf afternoons
 
-### 🤖 AI Automation & Intelligent Systems
-- AI-powered Email Assistant for Microsoft 365 using AI agents and OpenClaw
-- Healthcare AI backend powered by Google Gemini and the Vercel AI SDK with semantic search
-- Typebot + Healthcare CRM integration for automated patient workflows
-- AI-powered Meta Ads automation and backend integrations
-- OpenAI-powered business automation and intelligent workflow systems
+---
 
-### ⚙️ Backend & Data Engineering
-- Production REST APIs with Node.js and Firebase
-- Python ETL pipelines using pandas and PostgreSQL
-- PostgreSQL star-schema data warehouse for Toast POS analytics
-- Cloud Functions, workflow automation and third-party API integrations
+## 🛠 Tech Stack
 
-### 📱 Production Applications
-- **Healix AI** – AI-powered health guidance platform (5.0★ App Store)
-  https://apps.apple.com/us/app/healix-ai/id6743965106
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,nodejs,ts,js,python,express,postgres,mongodb,firebase,gcp,docker,githubactions,git,github,androidstudio&perline=9" />
+</p>
 
-- **SuperHero eSIM** – Travel eSIM platform supporting 150+ countries with Stripe payments
-  https://apps.apple.com/pk/app/superhero-esim-travel-data/id6504882410
+---
 
-- **Baby Resume** – Family memory platform with AI-powered backend services
-  https://www.babyresume.com
+## 🚀 Featured Projects
 
-- Built and shipped **10+ production applications**, including a government emergency-response application with **100K+ downloads**.
+### 📱 Mobile Apps
 
-## 🛠 Technologies
+| App | What it is | Highlights |
+|---|---|---|
+| **[Rescue 1122](https://github.com/MunibullahShah/case-study-rescue-emergency-response)** | Emergency response apps for the Government of Punjab | 100K+ downloads, real time tracking, staff and attendance apps |
+| **[SuperHero eSIM](https://github.com/MunibullahShah/case-study-superhero-esim)** | Travel eSIM app | 150+ countries, Stripe payments, App Store and Google Play |
+| **[Wird Book](https://play.google.com/store/apps/details?id=wirdbook.eito)** | Arabic app with right to left layouts | 50K+ downloads on Google Play, also on the App Store |
+| **[Healix AI](https://github.com/MunibullahShah/case-study-healix-ai)** | AI health advisor | Flutter app with a Python backend of 17+ endpoints, OpenAI |
+| **[Baby Resume](https://github.com/MunibullahShah/case-study-baby-resume)** | Baby milestone and resume app | 37+ screens, Clean Architecture, BLoC, Node.js backend, RevenueCat |
+| **[Zameeli Freelancers](https://play.google.com/store/apps/details?id=com.zameeli.freelancers)** | Freelancer app for an Omani marketplace | Connects small businesses with creative freelancers |
 
-### AI & Automation
-OpenAI APIs • Google Gemini • AI Agents • OpenClaw • Vercel AI SDK • Typebot • Workflow Automation • Prompt Engineering
+### ⚙️ Backend and AI
 
-### Backend
-Node.js • Python • REST APIs • Firebase • PostgreSQL • SQL • Authentication • Cloud Functions
+| Project | What it is | Highlights |
+|---|---|---|
+| **[AI Email Assistant](https://github.com/MunibullahShah/case-study-ai-email-assistant)** | Email triage agent over Microsoft Graph and Teams | 30 to 40 emails a day, about 95% classified correctly |
+| **Clinical Intake Platform** | Patient intake automation for private medical practices | Saves 7 to 10 minutes per patient, self hosted on Docker and Traefik |
+| **[AI Ads Manager](https://github.com/MunibullahShah/case-study-ai-ads-manager)** | Agent for Google and Meta Ads | Controlled through WhatsApp |
+| **Toast POS Data Pipeline** | Python ETL into a PostgreSQL warehouse | Star schema, data quality checks, daily scheduled runs |
 
-### Cloud & Infrastructure
-Google Cloud Platform • Firebase • Docker • Git • CI/CD
+---
 
-### Mobile
-Flutter • Dart • BLoC/Cubit • Clean Architecture
+## 📊 GitHub Stats
 
-## 🏆 Highlights
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MunibullahShah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MunibullahShah&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MunibullahShah&theme=tokyonight&hide_border=true" />
+</p>
 
-- ⭐ Perfect **5.0 rating** across all Upwork contracts
-- 📱 10+ production applications shipped
-- 👥 100K+ downloads across production applications
-- ☁️ Google Cloud certified with multiple skill badges
-- 🌍 Experienced working with international remote teams across multiple time zones
+---
 
-## 🌱 Current Focus
+## 🧰 Languages and Tools
 
-I'm currently focused on building AI-powered business systems including:
+**📱 Mobile**
 
-- AI Agents
-- Workflow Automation
-- Business Process Automation
-- Backend Systems
-- CRM Integrations
-- Conversational AI
-- Intelligent Email Automation
-- Healthcare Automation
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-2E86C1?style=flat-square)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-## 📫 Connect
+**🌐 Backend**
 
-📧 Email: **munibs47@gmail.com**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-💼 LinkedIn: https://linkedin.com/in/munibullah-shah
+**☁️ Cloud and DevOps**
 
-🌐 Portfolio: https://munibullahshah.github.io
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Codemagic](https://img.shields.io/badge/Codemagic-F45E3F?style=flat-square&logo=codemagic&logoColor=white)
 
-💻 Upwork: https://www.upwork.com/freelancers/~016c2530416635e76e
+**🔗 Integrations**
+
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![RevenueCat](https://img.shields.io/badge/RevenueCat-F25A5A?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+![Microsoft Graph](https://img.shields.io/badge/Microsoft_Graph-0078D4?style=flat-square)
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MunibullahShah&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+</p>
+
+---
+
+<p align="center">📍 Islamabad, Pakistan &nbsp;·&nbsp; Open to senior Flutter roles and freelance work with teams in Europe and the Gulf</p>
